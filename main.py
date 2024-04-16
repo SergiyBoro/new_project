@@ -2,7 +2,7 @@ name = input("Iveskite savo varda ")
 surname = input("Iveskite savo pavarde ")
 age = int(input("Iveskite savo amziu "))
 
-vip ={"Antanas": "Kazlauskas", "Vygintas": "Aliukonis", "Simas": "Anriukonis"}
+vip ={"Antanas": "Kazlauskas", "Vygintas": "Aliukonis", "Simas": "Anriukonis", "Indre": "Linkyte"}
 
 
 if age >= 21:
